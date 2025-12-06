@@ -6,7 +6,7 @@ This repository contains all the materials for my presentation on **Transformers
 
 To explore the full presentation materials, visit the main repository:
 
-👉 [Ryan-PG/AI-Gathering-Transformers-LLMs-HuggingFace](https://github.com/Ryan-PG/AI-Gathering-Transformers-LLMs-HuggingFace)
+👉 [Ryan-PG/ec-16-transformers-llms-huggingface](https://github.com/Ryan-PG/ec-16-transformers-llms-huggingface)
 
 ## YouTube Videos
 
