@@ -64,7 +64,7 @@ Each session has its own directory containing:
 
 #### 9. Computer Vision (Ali Amoori) 
 - **How Computer can see**  
-  *For more details about this topic, navigate to the `08 - An Overview of Supervised and Unsupervised Learning (Nur Sajadi)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
+  *For more details about this topic, navigate to the `9. Computer Vision (Ali Amoori) ` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*
   *Speaker: Nur Sajadi - nursajadiii@gmail.com*  
   *News: Ryan Heida - mr.ryanheida@gmail.com*
 
@@ -74,8 +74,12 @@ Each session has its own directory containing:
   *Speaker: Ryan Heida - mr.ryanheida@gmail.com*
 
 #### 16. Ttransformers, LLMs, HuggingFace (Ryan Heida) 
-- **Ttransformers, LLMs, HuggingFace**: Getting familiar with Transformers and LLMs then some info about HuggingFace spaces, models and dataset.  
-  *For more details about this topic, navigate to the `05 - Ttransformers, LLMs, HuggingFace (Ryan-Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*  
+- **Ttransformers, LLMs, HuggingFace**: Familiarity with Transformers and LLMs then some info about HuggingFace spaces, models and dataset.  
+  *For more details about this topic, navigate to the `16. Ttransformers, LLMs, HuggingFace (Ryan Heida)` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.*  
+
+#### 17. Kaggle, Huggingface Spaces and Google Colab (Ryan Heida) 
+- **Kaggle, Huggingface Spaces and Google Colab**: Familiarity with Kaggle, Google Colab and HF Spaces, as well as creating 2 Spaces for loading a desired model and working with them.  
+  *For more details about this topic, navigate to the `17. Kaggle, Huggingface Spaces and Google Colab (Ryan Heida) ` folder in this repository. The folder includes all needed references such as presentation slides, code examples, and additional resources.* 
 ---
 
 ## Contact Us:  
