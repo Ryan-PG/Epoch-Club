@@ -1,4 +1,4 @@
-# Data Cleaning (Classic and LLMs) — Epoch Club 18
+# Data Cleaning and Preprocessing (Classic and LLMs) — Epoch Club 18
 
 This repository contains all the materials from the **Epoch Club** session on **Practical Data Cleaning and Preprocessing with Python**, held on **December 11, 2025**. It includes code notebooks, a challenge description, and a supporting slide deck used during the session. 
 
